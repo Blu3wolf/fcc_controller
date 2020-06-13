@@ -107,7 +107,7 @@ enum CommandOptions {
   #define GripTrimRight 0x200000
   #define GripTrimAft 0x400000
   #define GripTrimLeft 0x800000
-  #define GripConfigMode 0x18
+  #define GripConfigMode 0x1c
 
   // Mapping from Grip to proper bytes
   //Byte 1:
